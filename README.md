@@ -4,7 +4,7 @@ This repository contains the 3D model files for a custom mount designed to secur
 
 ## Purchase 
 
-If you dont have a 3D printer and would rather purchase one check out this link! https://db25ef-60.myshopify.com/
+Coming soon...
 
 
 ## Printing Instructions
