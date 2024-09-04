@@ -2,6 +2,11 @@
 
 This repository contains the 3D model files for a custom mount designed to secure a Starlink Mini device on a Tesla Cybertruck.
 
+## Purchase 
+
+If you dont have a 3D printer and would rather purchase one check out this link! https://db25ef-60.myshopify.com/
+
+
 ## Printing Instructions
 
 For the best results when printing this mount, please follow these guidelines:
