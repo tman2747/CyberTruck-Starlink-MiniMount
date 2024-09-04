@@ -12,13 +12,13 @@ If you dont have a 3D printer and would rather purchase one check out this link!
 For the best results when printing this mount, please follow these guidelines:
 
 - **Material:** Use ASA filament. ASA provides excellent UV resistance, making it ideal for outdoor use and ensuring durability in various weather conditions.
-- **Infill:** Set your slicer to 50% infill. This balance provides sufficient strength while minimizing filament usage.
+- **Infill:** Set your slicer to 40%-50% infill
 
 ## Assembly Instructions
 
 To secure the mount to your Cybertruck, you will need:
 
-- **Bolts:** Two 5mm bolts are required to attach the mount securely to the vehicle.
+- **Nuts:** Two 5mm Black lock tight nuts are required to attach the mount securely to the vehicle.
 - **Starlink Pipe Adapter:** The mount is designed to be used with the Starlink pipe adapter that comes with the Starlink Mini when purchased. This adapter ensures a secure fit between the Starlink Mini and the mount.
 
 ## Important Safety Notice
