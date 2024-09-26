@@ -23,7 +23,7 @@ For the best results when printing this mount, please follow these guidelines:
 
 To secure the mount to your Cybertruck, you will need:
 
-- **Nuts:** Two 5mm Black lock tight nuts are required to attach the mount securely to the vehicle.
+- **Nuts:** Two 6m Black lock tight nuts are required to attach the mount securely to the vehicle. https://www.amazon.com/gp/product/B0CJR8LHZY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 - **Starlink Pipe Adapter:** The mount is designed to be used with the Starlink pipe adapter that comes with the Starlink Mini when purchased. This adapter ensures a secure fit between the Starlink Mini and the mount.
 
 ## Important Safety Notice
