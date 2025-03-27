@@ -2,10 +2,10 @@
 
 This repository contains the 3D model files for a custom mount designed to secure a Starlink Mini device on a Tesla Cybertruck.
 
-![Mount](/Images/StarlinkMini1.png)
-Big Base
-![Mount](/Images/StarlinkMiniSkinny2.png)
-Skinny
+Big Base STL
+<img src="/Images/StarlinkMini1.png" alt="drawing" width="300"/>
+Skinny STL
+<img src="/Images/StarlinkMiniSkinny2.png" alt="drawing" width="300"/>
 
 ## Purchase 
 
